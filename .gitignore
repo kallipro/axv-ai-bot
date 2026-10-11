@@ -1,0 +1,19 @@
+# Maxfiy kalitlar (GitHub ga yuklanmasligi shart!)
+.env
+
+# Python kesh fayllari
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Muhit va IDE sozlamalari
+.venv/
+venv/
+ENV/
+.idea/
+.vscode/
+
+# Sinov skriptlari
+tools/test_*.py
+tools/check_*.py

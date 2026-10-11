@@ -1,0 +1,402 @@
+[
+  {
+    "raqam": 1,
+    "id": "cs8-001",
+    "sarlavha": "Zamonaviy kompyuterlar va ularning arxitekturasi",
+    "qisqacha": "Bugun biz kompyuter ichida nima borligini, u qanday qilib kirish -> qayta ishlash -> chiqarish zanjiri bo'yicha ishlashini o'rganamiz. Darsning oxirida siz komp...",
+    "atamalar": [
+      "Arxitektura",
+      "CPU (Protsessor)",
+      "RAM",
+      "SSD / HDD",
+      "GPU (Videokarta)",
+      "Ona plata",
+      "Input / Output",
+      "GHz"
+    ]
+  },
+  {
+    "raqam": 2,
+    "id": "cs8-002",
+    "sarlavha": "Operatsion tizimlar va Windows muhitida ishlash",
+    "qisqacha": "O'tgan darsda kompyuter qismlarini o'rgandik. Lekin qismlar yig'ilgan bo'lsa ham, ularni boshqaradigan narsa bo'lmasa kompyuter ishlamaydi. Bugun shu \"boshqaruv...",
+    "atamalar": [
+      "Operatsion tizim (OS)",
+      "Interfeys",
+      "Ish stoli (Desktop)",
+      "Taskbar",
+      "Yorliq (Shortcut)",
+      "Drayver",
+      "CMD",
+      "Jarayon (Process)"
+    ]
+  },
+  {
+    "raqam": 3,
+    "id": "cs8-003",
+    "sarlavha": "Axborot o'lchov birliklari va fayl turlari. Fayl va papkalar bilan ishlash (Hot keys)",
+    "qisqacha": "Kompyuterda hamma narsa fayl ko'rinishida saqlanadi: rasm, musiqa, hujjat, dastur. Bugun fayl nima ekanini, ular qanday turlarga bo'linishini, hajmi qanday o'lc...",
+    "atamalar": [
+      "Fayl",
+      "Kengaytma",
+      "Papka (yig'ma jild)",
+      "Bit",
+      "Bayt",
+      "KB / MB / GB / TB",
+      "Tezkor tugma (Hot key)",
+      "Nusxalash / Ko'chirish"
+    ]
+  },
+  {
+    "raqam": 4,
+    "id": "cs8-004",
+    "sarlavha": "Kompyuterning asosiy va qo'shimcha qurilmalari",
+    "qisqacha": "Birinchi darsda kompyuter arxitekturasini umumiy ko'rinishda o'rgandik. Bugun esa tizim blokining ichiga kirib qaraymiz: protsessor, RAM, ona plata, disk, quvva...",
+    "atamalar": [
+      "Periferiya",
+      "Ona plata",
+      "Quvvat bloki (PSU)",
+      "GPU",
+      "Port",
+      "MFP",
+      "Drayver",
+      "UPS"
+    ]
+  },
+  {
+    "raqam": 5,
+    "id": "cs8-005",
+    "sarlavha": "Internet, brauzerlar va elektron pochta bilan ishlash",
+    "qisqacha": "Kompyuterni o'rgandik, qurilmalarni ham bildik. Endi dunyoning eng katta tarmog'i — Internet bilan tanishamiz: u nima, unda qanday xizmatlar bor, brauzer nima u...",
+    "atamalar": [
+      "Internet",
+      "Brauzer",
+      "Tab",
+      "Xatcho'p (Bookmark)",
+      "Incognito",
+      "Qidiruv operatori",
+      "Elektron pochta",
+      "CC / BCC"
+    ]
+  },
+  {
+    "raqam": 6,
+    "id": "cs8-006",
+    "sarlavha": "Kompyuter xavfsizligi va antivirus dasturlari",
+    "qisqacha": "Internet juda ko'p imkoniyat beradi — lekin u bilan birga xavflar ham keladi. Bugun zararli dasturlar (virus, troyan, ransomware) nima ekanini, antiviruslar qan...",
+    "atamalar": [
+      "Malware",
+      "Virus",
+      "Troyan",
+      "Spyware",
+      "Ransomware",
+      "Antivirus",
+      "2FA",
+      "Phishing"
+    ]
+  },
+  {
+    "raqam": 7,
+    "id": "cs8-007",
+    "sarlavha": "Klaviaturada tez va to'g'ri yozish ko'nikmalari",
+    "qisqacha": "Dasturchining ish vaqtining katta qismi klaviatura bilan o'tadi. Bugun biz klaviatura tuzilishini o'rganamiz, to'g'ri o'tirish holatini va barmoqlar joylashuvin...",
+    "atamalar": [
+      "Touch typing",
+      "WPM",
+      "CPM",
+      "Aniqlik (accuracy)",
+      "Asosiy qator",
+      "Numpad",
+      "Caps Lock",
+      "Netiket"
+    ]
+  },
+  {
+    "raqam": 8,
+    "id": "cs8-008",
+    "sarlavha": "Raqamli savodxonlik va raqamli madaniyat",
+    "qisqacha": "Internetda bo'lish — bu katta shaharda yashash kabidir. Unda ham odob bor, xavf bor va mas'uliyat bor. Bugun raqamli savodxonlik nima ekanini, internet odobini ...",
+    "atamalar": [
+      "Raqamli savodxonlik",
+      "Netiket",
+      "Raqamli iz",
+      "Faol iz",
+      "Passiv iz",
+      "Cookie",
+      "Doxxing",
+      "Feyk"
+    ]
+  },
+  {
+    "raqam": 9,
+    "id": "cs8-009",
+    "sarlavha": "Raqamli transformatsiya tushunchasi",
+    "qisqacha": "Ilgari hamma ish qog'ozda bo'lgan: jurnal, hisobot, ariza, navbat. Bugun esa telefon orqali davlat xizmatidan foydalanamiz, darslar onlayn bo'lib qoldi. Bu — ra...",
+    "atamalar": [
+      "Raqamli transformatsiya",
+      "Raqamlashtirish",
+      "Avtomatlashtirish",
+      "Onlayn xizmat",
+      "EHM",
+      "ERI",
+      "Dashboard",
+      "Samaradorlik"
+    ]
+  },
+  {
+    "raqam": 10,
+    "id": "cs8-010",
+    "sarlavha": "Internet qanday ishlaydi? IP, hosting, domen, DNS, brauzer, HTTP/HTTPS",
+    "qisqacha": "Brauzerga bitta manzil yozasiz va 1 soniyada sahifa ochiladi. O'sha soniyada nima bo'ladi? Bugun biz IP manzil, domen, DNS, hosting, brauzer va HTTP/HTTPS proto...",
+    "atamalar": [
+      "IP manzil",
+      "Domen",
+      "DNS",
+      "Hosting",
+      "Server",
+      "Mijoz (client)",
+      "HTTP / HTTPS",
+      "SSL / TLS"
+    ]
+  },
+  {
+    "raqam": 11,
+    "id": "cs8-011",
+    "sarlavha": "Bulutli xizmatlar va onlayn hamkorlik vositalari (1-qism): bulutli saqlash",
+    "qisqacha": "Fleshka yo'qoladi, kompyuter buziladi, telefon singan — fayllar qayerda xavfsiz turadi? Javob: bulutda. Bugun biz bulutli xizmatlar nima ekanini, Google Drive, ...",
+    "atamalar": [
+      "Bulut (cloud)",
+      "Bulutli xizmat",
+      "Sinxronizatsiya",
+      "Metadata",
+      "Ruxsat (permission)",
+      "Viewer / Commenter / Editor",
+      "Havola (link)",
+      "Chunk"
+    ]
+  },
+  {
+    "raqam": 12,
+    "id": "cs8-012",
+    "sarlavha": "Bulutli xizmatlar (2-qism): onlayn hujjatlar va birgalikda ishlash",
+    "qisqacha": "O'tgan darsda fayllarni bulutga saqlashni o'rgandik. Bugun esa onlayn hujjatlar bilan ishlaymiz: Google Docs, Sheets, Slides va Microsoft 365. Hamkorlikda tahri...",
+    "atamalar": [
+      "Onlayn hujjat",
+      "Docs / Sheets / Slides",
+      "Izoh (comment)",
+      "Taklif rejimi",
+      "Versiya tarixi",
+      "Formula",
+      "Eksport",
+      "CSV"
+    ]
+  },
+  {
+    "raqam": 13,
+    "id": "cs8-013",
+    "sarlavha": "Bulutli xizmatlar (3-qism): onlayn vazifalar va jamoa bilan ishlash",
+    "qisqacha": "Vazifalar ro'yxatini qog'ozga yozsangiz, u yo'qoladi. Telefon eslatmasini esa jamoa ko'rmaydi. Bugun biz Trello, Microsoft To Do va Google Tasks kabi vositalarn...",
+    "atamalar": [
+      "Kanban",
+      "Kartochka (card)",
+      "Ustuvorlik",
+      "Mas'ul",
+      "Muddat (deadline)",
+      "Bloklangan vazifa",
+      "Pomodoro",
+      "Yuklama"
+    ]
+  },
+  {
+    "raqam": 14,
+    "id": "cs8-014",
+    "sarlavha": "Git va GitHub bilan tanishuv (1-qism): versiya nazorati, repository va commit",
+    "qisqacha": "Ish papkangizni tasavvur qiling: loyiha.html, loyiha-yangi.html, loyiha-final.html, loyiha-final2.html, loyiha-tuzatilgan.html. Qaysi biri haqiqiy? Bitta xato k...",
+    "atamalar": [
+      "Versiya nazorati",
+      "Git",
+      "GitHub",
+      "Repository (repo)",
+      "Commit",
+      "Staging area",
+      "Working directory",
+      "Hash (SHA-1)"
+    ]
+  },
+  {
+    "raqam": 15,
+    "id": "cs8-015",
+    "sarlavha": "Git va GitHub bilan tanishuv (2-qism): GitHub akkaunt, README.md va branch",
+    "qisqacha": "O'tgan darsda loyihamiz kompyuterning o'zida turgan edi. Agar kompyuter buzilsa - hammasi yo'qoladi. Bugun biz loyihani GitHub ga joylaymiz, uning yuzi bo'lgan ...",
+    "atamalar": [
+      "GitHub",
+      "Remote",
+      "origin",
+      "Branch (shoxobcha)",
+      "main",
+      "merge",
+      "Konflikt",
+      "README.md"
+    ]
+  },
+  {
+    "raqam": 16,
+    "id": "cs8-016",
+    "sarlavha": "Git va GitHub bilan tanishuv (3-qism): Git asosiy buyruqlari (init, add, commit, status, log)",
+    "qisqacha": "O'tgan ikki darsda biz Git ning mantiqini o'rgandik: repository, commit, branch, push. Endi qo'llarimizni ishga solamiz. Bugun Git ning eng ko'p ishlatiladigan ...",
+    "atamalar": [
+      "status",
+      "add",
+      "commit",
+      "log",
+      "diff",
+      "restore",
+      "reset",
+      "revert"
+    ]
+  },
+  {
+    "raqam": 17,
+    "id": "cs8-017",
+    "sarlavha": "Git va GitHub bilan tanishuv (4-qism): jamoaviy ish, pull request va releas",
+    "qisqacha": "Yolg'iz ishlaganda Git ba'zi qoidalarga ehtiyoj sezmaydi. Ammo jamoa bo'lib ishlashda tartib shart: kimningdir o'zgarishini ko'rib chiqish, xatoni sinovdan o'tk...",
+    "atamalar": [
+      "Pull request (PR)",
+      "Code review",
+      "Reviewer",
+      "Merge",
+      "Squash",
+      "Rebase",
+      "Tag",
+      "Release"
+    ]
+  },
+  {
+    "raqam": 18,
+    "id": "cs8-018",
+    "sarlavha": "Zamonaviy IT yo'nalishlari: Web, Mobile, Data Science, AI, DevOps, Cybersecurity",
+    "qisqacha": "\"Kelajakda kim bo'laman?\" degan savolga \"dasturchi\" deb javob berish endi yetarli emas. IT olamida o'nlab mutaxassislik bor va ular bir-biridan juda farq qiladi...",
+    "atamalar": [
+      "Frontend",
+      "Backend",
+      "Full-stack",
+      "API",
+      "Mobile",
+      "Krossplatforma",
+      "Data Science",
+      "Data Analyst"
+    ]
+  },
+  {
+    "raqam": 19,
+    "id": "cs8-019",
+    "sarlavha": "Kiberxavfsizlik va shaxsiy ma'lumotlarni himoya qilish asoslari",
+    "qisqacha": "6-darsda biz antivirus va kompyuter xavfsizligi bilan tanishgan edik. Bugun mavzuni chuqurlashtiramiz: gap shaxsiy ma'lumotlarimiz haqida. Telefon raqami, manzi...",
+    "atamalar": [
+      "Shaxsiy ma'lumot",
+      "O'ta maxfiy ma'lumot",
+      "2FA",
+      "Authenticator",
+      "Fishing",
+      "Firibgarlik",
+      "Xesh",
+      "Tuz (salt)"
+    ]
+  },
+  {
+    "raqam": 20,
+    "id": "cs8-020",
+    "sarlavha": "Algoritm tushunchasi va algoritmik fikrlash",
+    "qisqacha": "Ertalab uyg'onish, yuz yuvish, nonushta qilish, maktabga borish — bularning hammasi ma'lum bir tartibda bajariladi. Tartib buzilsa, natija ham buziladi: avval p...",
+    "atamalar": [
+      "Algoritm",
+      "Aniqlik",
+      "Diskretlik",
+      "Natijalilik",
+      "Ommaviylik",
+      "Blok-sxema",
+      "Pseudo-kod",
+      "Chiziqli algoritm"
+    ]
+  },
+  {
+    "raqam": 21,
+    "id": "cs8-021",
+    "sarlavha": "Flowgorithm interfeysi va blok-sxema elementlari bilan ishlash",
+    "qisqacha": "O'tgan darsda algoritmni blok-sxema ko'rinishida ifodalashni o'rgandik. Endi bu ishni qo'lda emas, balki Flowgorithm dasturida bajarishni o'rganamiz. Flowgorith...",
+    "atamalar": [
+      "Flowgorithm",
+      "Diagramma maydoni",
+      "Konsol",
+      "Blok",
+      "Start / End",
+      "Declare",
+      "Assign",
+      "Input"
+    ]
+  },
+  {
+    "raqam": 22,
+    "id": "cs8-022",
+    "sarlavha": "Flowgorithm orqali dasturlash tushunchalari: dastur, buyruq, kod va mantiq",
+    "qisqacha": "O'tgan darsda bloklarni chizdik. Bugun savol beramiz: dastur nima? buyruq nima? Nega bir xil masalani Python da ham, JavaScript da ham yozish mumkin? Va nima uc...",
+    "atamalar": [
+      "Dastur",
+      "Buyruq",
+      "Kod",
+      "Mantiq",
+      "Sintaksis",
+      "Sintaksis xatosi",
+      "Mantiqiy xato",
+      "Ish vaqtidagi xato"
+    ]
+  },
+  {
+    "raqam": 23,
+    "id": "cs8-023",
+    "sarlavha": "Flowgorithmda o'zgaruvchilar va ma'lumot turlari bilan ishlash",
+    "qisqacha": "Tasavvur qiling, dastur sizdan ismingizni so'raydi, keyin yoshingizni, so'ng ikkalasini birlashtirib javob chiqaradi. Dastur bu ma'lumotlarni qayerda eslab qola...",
+    "atamalar": [
+      "O'zgaruvchi (variable)",
+      "Declare",
+      "Assign",
+      "Input",
+      "Output",
+      "Integer",
+      "Real",
+      "String"
+    ]
+  },
+  {
+    "raqam": 24,
+    "id": "cs8-024",
+    "sarlavha": "Flowgorithmda chiziqli algoritmlar yaratish",
+    "qisqacha": "Oldingi darsda o'zgaruvchi va uning turlarini o'rgandik. Endi bu bilimni birlashtiramiz: dastur ma'lumotni oladi, qayta ishlaydi va natijani chiqaradi. Bloklar ...",
+    "atamalar": [
+      "Chiziqli algoritm",
+      "Kirish (Input)",
+      "Qayta ishlash",
+      "Chiqish (Output)",
+      "Amal tartibi",
+      "mod",
+      "Butun bo'lish",
+      "Vaqtinchalik o'zgaruvchi"
+    ]
+  },
+  {
+    "raqam": 25,
+    "id": "cs8-025",
+    "sarlavha": "Flowgorithmda tarmoqlanuvchi algoritmlar va shartlar bilan ishlash (1-qism)",
+    "qisqacha": "Hozirgacha bizning dasturlarimiz \"ko'r\" edi: ular hech narsani tekshirmasdan bir yo'ldan borardi. Lekin haqiqiy dastur qaror qabul qilishi kerak: agar parol to'...",
+    "atamalar": [
+      "Tarmoqlanuvchi algoritm",
+      "Shart",
+      "If bloki",
+      "If-Else",
+      "If-Else-If zanjiri",
+      "Ichma-ich shart",
+      "AND",
+      "OR"
+    ]
+  }
+]
